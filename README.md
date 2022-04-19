@@ -1,6 +1,7 @@
 ### Olá pessoal...👋
 
 - 🌱 Atualmente trabalho como fullstack e estudo bastante
+- 📩 Para entrar em contato comigo: pedrogabriel3@gmail.com
 
 <div align="center">
   <a href="https://github.com/lisboapg93">
