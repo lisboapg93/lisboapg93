@@ -1,6 +1,6 @@
 ### Olá, meu nome é Pedro Lisboa e sou desenvolvedor FullStack.
 
-- 🌱 Atualmente trabalho como fullstack e estudo bastante
+- 🌱 Atualmente trabalho como fullstack e me atualizo sobre as tecnologias.
 - 📩 Para entrar em contato comigo: pedrogabriel3@gmail.com
 
 <div align="center">
